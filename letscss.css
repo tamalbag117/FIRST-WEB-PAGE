@@ -7,7 +7,6 @@ header {
   text-align: center;
   background-color: aqua;
   color: #000;
-  /* position: static; */
 }
 h1 {
   font-size: 50px;
@@ -35,13 +34,10 @@ section {
   background-color: cornsilk;
   padding: 10px 10px;
   overflow: hidden;
-  /* text-align: center; */
-  /* display: flex; */
 }
 h3 {
   background-color: chartreuse;
   border-radius: 30px;
-  /* border:3vw solid red; */
   width: 90vw;
   height: inherit;
   text-align: center;
@@ -96,7 +92,6 @@ img {
   justify-content: center;
   text-align: center;
   width: 48vw;
-  /* display: inline; */
 }
 .concat {
   display: flex;
@@ -136,7 +131,6 @@ img {
 }
 .hbr {
   animation: hight 10s  infinite alternate;
-  /* text-size-adjust: 50px; */
 }
 .set{
     display: flex;
